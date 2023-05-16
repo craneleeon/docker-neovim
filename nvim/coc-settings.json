@@ -1,0 +1,6 @@
+{
+  "javascript.preferences.importStatement.search": "workspace",
+  "javascript.preferences.importStatement.gotoInterface": "definition",
+  "typescript.preferences.importStatement.search": "workspace",
+  "typescript.preferences.importStatement.gotoInterface": "definition"
+}
